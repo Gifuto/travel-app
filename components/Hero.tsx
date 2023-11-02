@@ -14,7 +14,7 @@ export const Hero = () => {
             <div className="relative z-20 flex flex-1 flex-col xl:w-1/2">
                 <motion.div initial={{ opacity: 0, x: -100 }} whileInView={{ opacity: 1, x: 0 }} transition={{ duration: 1 }}>
                 <Image
-                    src="./camp.svg"
+                    src="/camp.svg"
                     alt="camp"
                     width={50}
                     height={50}
@@ -36,7 +36,7 @@ export const Hero = () => {
                             .fill(1)
                             .map((_, index) => (
                                 <Image
-                                    src="./star.svg"
+                                    src="/star.svg"
                                     key={index}
                                     alt="star"
                                     width={24}
@@ -74,7 +74,7 @@ export const Hero = () => {
                         <div className="flexBetween">
                             <p className="regular-16 text-gray-20">Location</p>
                             <Image
-                                src="./close.svg"
+                                src="/close.svg"
                                 alt="close"
                                 width={24}
                                 height={24}
