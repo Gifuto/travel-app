@@ -10,7 +10,7 @@ export const Features = () => {
             <div className="max-container padding-container relative w-full flex justify-end">
                 <div className="flex flex-1 lg:min-h-[900px]">
                     <Image
-                        src="/phone.png"
+                        src="/public/phone.png"
                         alt="phone"
                         width={440}
                         height={1000}
@@ -25,7 +25,7 @@ export const Features = () => {
                         className="relative"
                     >
                         <Image
-                            src="/camp.svg"
+                            src="/public/camp.svg"
                             alt="camp"
                             width={50}
                             height={50}

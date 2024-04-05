@@ -25,7 +25,7 @@ const CampSite = ({
                 <div className="flexCenter gap-4">
                     <div className="rounded-full bg-green-50 p-4">
                         <Image
-                            src="/folded-map.svg"
+                            src="/public/folded-map.svg"
                             alt="map"
                             width={28}
                             height={28}
@@ -94,7 +94,7 @@ export const Camp = () => {
                         who want to start an adventure
                     </p>
                     <Image
-                        src="/quote.svg"
+                        src="/public/quote.svg"
                         alt="camp-2"
                         width={186}
                         height={219}
