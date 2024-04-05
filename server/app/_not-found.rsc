@@ -1,7 +1,7 @@
-1:HL["/_next/static/css/3a6cea7788be3b10.css","style",{"crossOrigin":""}]
-0:["14zpWKKJsEjnct6FplFWZ",[[["",{"children":["__PAGE__",{}]},"$undefined","$undefined",true],"$L2",[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/3a6cea7788be3b10.css","precedence":"next","crossOrigin":""}]],"$L3"]]]]
-4:I[8326,["413","static/chunks/413-6b2c09fa94e4b152.js","326","static/chunks/326-021b69610d5a2daf.js","185","static/chunks/app/layout-ca9dad06b7277f3d.js"],""]
-5:I[413,["413","static/chunks/413-6b2c09fa94e4b152.js","486","static/chunks/486-508f9decb8c61ba0.js","931","static/chunks/app/page-fcab49927a7a532d.js"],"Image"]
+1:HL["/travel-app/_next/static/css/3a6cea7788be3b10.css","style",{"crossOrigin":""}]
+0:["nYIQlvTkA4F98-r3WI8wC",[[["",{"children":["__PAGE__",{}]},"$undefined","$undefined",true],"$L2",[[["$","link","0",{"rel":"stylesheet","href":"/travel-app/_next/static/css/3a6cea7788be3b10.css","precedence":"next","crossOrigin":""}]],"$L3"]]]]
+4:I[8326,["413","static/chunks/413-ed4928284c1041da.js","326","static/chunks/326-776ec1b7f5e85e39.js","185","static/chunks/app/layout-ca9dad06b7277f3d.js"],""]
+5:I[413,["413","static/chunks/413-ed4928284c1041da.js","486","static/chunks/486-c32b3102982a6eb5.js","931","static/chunks/app/page-fcab49927a7a532d.js"],"Image"]
 6:I[6954,[],""]
 7:I[7264,[],""]
 9:{"fontFamily":"system-ui,\"Segoe UI\",Roboto,Helvetica,Arial,sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\"","height":"100vh","textAlign":"center","display":"flex","flexDirection":"column","alignItems":"center","justifyContent":"center"}
