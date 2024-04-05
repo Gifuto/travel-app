@@ -2,6 +2,7 @@
 import { motion } from "framer-motion";
 import Image from "next/image";
 
+import { basePath } from "../next.config"
 import { Button } from "./Button";
 
 
@@ -14,7 +15,8 @@ export const Hero = () => {
             <div className="relative z-20 flex flex-1 flex-col xl:w-1/2">
                 <motion.div initial={{ opacity: 0, x: -100 }} whileInView={{ opacity: 1, x: 0 }} transition={{ duration: 1 }}>
                 <Image
-                    src="../public/camp.svg"
+                    //src="/camp.svg"
+                    src={`${basePath}/public/camp.svg`}
                     alt="camp"
                     width={50}
                     height={50}
